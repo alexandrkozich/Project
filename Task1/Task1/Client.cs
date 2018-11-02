@@ -10,6 +10,7 @@ namespace Task1
     {
         public void Main()
         {
+            
             Console.WriteLine("Client: Testing client code with the first factory type...");
             ClientMethod(new SummerFactory1());
             Console.WriteLine();

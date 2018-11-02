@@ -183,11 +183,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\admin\\source\\repos\\Task1\\ShoesFactory.BLL\\ShoesFactory.BLL.csproj",
+      "projectUniqueName": "C:\\Users\\admin\\Github\\Project\\Task1\\ShoesFactory.BLL\\ShoesFactory.BLL.csproj",
       "projectName": "ShoesFactory.BLL",
-      "projectPath": "C:\\Users\\admin\\source\\repos\\Task1\\ShoesFactory.BLL\\ShoesFactory.BLL.csproj",
+      "projectPath": "C:\\Users\\admin\\Github\\Project\\Task1\\ShoesFactory.BLL\\ShoesFactory.BLL.csproj",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\admin\\source\\repos\\Task1\\ShoesFactory.BLL\\obj\\",
+      "outputPath": "C:\\Users\\admin\\Github\\Project\\Task1\\ShoesFactory.BLL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

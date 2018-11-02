@@ -58,6 +58,7 @@
     <Compile Include="SpringAutumnFactory3.cs" />
     <Compile Include="SummerFactory1.cs" />
     <Compile Include="WinterFactory2.cs" />
+    <Compile Include="WomensShoes.cs" />
     <Compile Include="WomensSpringAutumnShoesA3.cs" />
     <Compile Include="WomensSummerShoesA1.cs" />
     <Compile Include="WomensWinterShoesA2.cs" />

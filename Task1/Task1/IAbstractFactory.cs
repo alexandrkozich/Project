@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Task1
 {
-    interface IAbstractFactory
+   public interface IAbstractFactory
     {
         IAbstractWomensA CreateWomensShoesA();
 
@@ -14,7 +14,7 @@ namespace Task1
 
         IAbstractProductC CreateChildrensShoesC();
 
-       // public string Name { get; set; }
+    
 
     }
 }

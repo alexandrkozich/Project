@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Task1
 {
-    interface IAbstractMensShoesB
+   public interface IAbstractMensShoesB
     {
         string UsefulFunctionB();
 

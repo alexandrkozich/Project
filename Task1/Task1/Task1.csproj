@@ -42,29 +42,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ChildrensSpringAutumnShoesC3.cs" />
-    <Compile Include="ChildrensSummerShoesC1.cs" />
-    <Compile Include="ChildrensWinterShoesC2.cs" />
-    <Compile Include="Client.cs" />
-    <Compile Include="IAbstractFactory.cs" />
-    <Compile Include="IAbstractMensShoesB.cs" />
-    <Compile Include="IAbstractProductC.cs" />
-    <Compile Include="IAbstractWomensA.cs" />
-    <Compile Include="MensSpringAutumnShoesB3.cs" />
-    <Compile Include="MensSummerShoesB1.cs" />
-    <Compile Include="MensWinterShoesB2.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="SpringAutumnFactory3.cs" />
-    <Compile Include="SummerFactory1.cs" />
-    <Compile Include="WinterFactory2.cs" />
-    <Compile Include="WomensShoes.cs" />
-    <Compile Include="WomensSpringAutumnShoesA3.cs" />
-    <Compile Include="WomensSummerShoesA1.cs" />
-    <Compile Include="WomensWinterShoesA2.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ShoesFactory.BLL\ShoesFactory.BLL.csproj">
+      <Project>{e4d3943b-1e5b-466a-98f9-9b2b87488878}</Project>
+      <Name>ShoesFactory.BLL</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

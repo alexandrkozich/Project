@@ -1,0 +1,4 @@
+C:\Users\admin\Github\Project\Task1\ShoesFactory.BLL\obj\Debug\netstandard2.0\ShoesFactory.BLL.csprojAssemblyReference.cache
+C:\Users\admin\Github\Project\Task1\ShoesFactory.BLL\obj\Debug\netstandard2.0\ShoesFactory.BLL.csproj.CoreCompileInputs.cache
+C:\Users\admin\Github\Project\Task1\ShoesFactory.BLL\obj\Debug\netstandard2.0\ShoesFactory.BLL.AssemblyInfoInputs.cache
+C:\Users\admin\Github\Project\Task1\ShoesFactory.BLL\obj\Debug\netstandard2.0\ShoesFactory.BLL.AssemblyInfo.cs

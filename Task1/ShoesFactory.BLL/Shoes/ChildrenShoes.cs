@@ -4,7 +4,7 @@ using System.Text;
 
 namespace ShoesFactory.BLL
 {
-    class ChildrenShoes : Shoes
+    public class ChildrenShoes : Shoes
     {
         public int Olds;
 

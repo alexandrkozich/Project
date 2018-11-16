@@ -4,7 +4,7 @@ using System.Text;
 
 namespace ShoesFactory.BLL.Enums
 {
-    public enum Type
+    public enum ShoesType
     {
         Summer,
         Winter,

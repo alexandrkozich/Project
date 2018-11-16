@@ -4,7 +4,7 @@ using System.Text;
 
 namespace ShoesFactory.BLL
 {
-    class MensShoes : Shoes
+    public class MensShoes : Shoes
     {
         public string Color;
 

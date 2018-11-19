@@ -4,3 +4,9 @@ C:\Users\admin\source\repos\Progect\TextProcessing\bin\Debug\TextProcessing.dll
 C:\Users\admin\source\repos\Progect\TextProcessing\bin\Debug\TextProcessing.pdb
 C:\Users\admin\source\repos\Progect\TextProcessing\obj\Debug\TextProcessing.dll
 C:\Users\admin\source\repos\Progect\TextProcessing\obj\Debug\TextProcessing.pdb
+C:\Users\admin\Github\Project\Progect\TextProcessing\obj\Debug\TextProcessing.BLL.csprojAssemblyReference.cache
+C:\Users\admin\Github\Project\Progect\TextProcessing\obj\Debug\TextProcessing.BLL.csproj.CoreCompileInputs.cache
+C:\Users\admin\Github\Project\Progect\TextProcessing\obj\Debug\TextProcessing.dll
+C:\Users\admin\Github\Project\Progect\TextProcessing\obj\Debug\TextProcessing.pdb
+C:\Users\admin\Github\Project\Progect\TextProcessing\bin\Debug\TextProcessing.dll
+C:\Users\admin\Github\Project\Progect\TextProcessing\bin\Debug\TextProcessing.pdb

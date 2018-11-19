@@ -1,22 +1,29 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
+﻿using System.Collections.Generic;
 using System.Text;
-using System.Threading.Tasks;
+
 
 namespace TextProcessing
 {
     public class Sentence : ISentence
+
     {
 
         private readonly List<ISentenceElement> _sententenceElements;
-        
+        private readonly IWordWorker _wordWorker;
         public Sentence()
         {
             _sententenceElements = new List<ISentenceElement>();
            
         }
-
+        public int GetElementsCount()
+        {
+            return _sententenceElements.Count;
+        }
+        public ISentenceElement GetElementByIndex(int index)
+        {
+            if (index < 0 || index >= _sententenceElements.Count) return null;
+            return _sententenceElements[index];
+        }
         public void AddElementToEnd(ISentenceElement element)
         {
             _sententenceElements.Add(element);
@@ -34,10 +41,6 @@ namespace TextProcessing
             }
             return count;
         }
-
-        
-
-
         public override string ToString()
         {
             StringBuilder builder = new StringBuilder();

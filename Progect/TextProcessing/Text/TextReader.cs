@@ -19,15 +19,14 @@ namespace TextProcessing
 
         public List<string> Read()
         {
-            FileStream stream = new FileStream(_fileName, FileMode.Open);
+            var stream = new FileStream(_fileName, FileMode.Open);
             StreamReader reader = new StreamReader(stream, Encoding.Default);
             List<string> result = new List<string>();
 
-            string str = string.Empty;
             while (!reader.EndOfStream)
             {
-                str = reader.ReadLine();
-                result.AddRange(SplitText(str, reader.EndOfStream));
+                string line = reader.ReadLine();
+                result.AddRange(SplitText(line, reader.EndOfStream));
             }
             reader.Close();
             return result;

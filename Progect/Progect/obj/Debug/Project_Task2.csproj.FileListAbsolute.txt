@@ -8,3 +8,13 @@ C:\Users\admin\source\repos\Progect\Progect\obj\Debug\Project_Task2.csproj.CoreC
 C:\Users\admin\source\repos\Progect\Progect\obj\Debug\Project_Task2.csproj.CopyComplete
 C:\Users\admin\source\repos\Progect\Progect\obj\Debug\Progect.exe
 C:\Users\admin\source\repos\Progect\Progect\obj\Debug\Progect.pdb
+C:\Users\admin\Github\Project\Progect\Progect\bin\Debug\Progect.exe.config
+C:\Users\admin\Github\Project\Progect\Progect\bin\Debug\Progect.exe
+C:\Users\admin\Github\Project\Progect\Progect\bin\Debug\Progect.pdb
+C:\Users\admin\Github\Project\Progect\Progect\bin\Debug\TextProcessing.dll
+C:\Users\admin\Github\Project\Progect\Progect\bin\Debug\TextProcessing.pdb
+C:\Users\admin\Github\Project\Progect\Progect\obj\Debug\Project_Task2.csprojAssemblyReference.cache
+C:\Users\admin\Github\Project\Progect\Progect\obj\Debug\Project_Task2.csproj.CoreCompileInputs.cache
+C:\Users\admin\Github\Project\Progect\Progect\obj\Debug\Project_Task2.csproj.CopyComplete
+C:\Users\admin\Github\Project\Progect\Progect\obj\Debug\Progect.exe
+C:\Users\admin\Github\Project\Progect\Progect\obj\Debug\Progect.pdb

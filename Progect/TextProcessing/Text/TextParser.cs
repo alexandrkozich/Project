@@ -1,8 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Text.RegularExpressions;
 
 
@@ -20,13 +17,16 @@ namespace TextProcessing
                 var matches = Regex.Matches(currentSentence, pattern);
                 foreach (Match match in matches)
                 {
+                  //  sentence.AddElementToEnd(GetElementToEnd(match));
+
                     if (Regex.IsMatch(match.Value, @"(\p{P})"))
                     {
+                       // sentence.AddElementToEnd(GetElementToEnd(match));
                         sentence.AddElementToEnd(new SentenceElement(match.Value, SentenceElementType.PunctuationMark));
                     }
                     else
                     {
-
+                        
                         sentence.AddElementToEnd(new SentenceElement(match.Value, SentenceElementType.Word));
                     }
                 }
@@ -34,5 +34,5 @@ namespace TextProcessing
             }
             return text;
         }
-    }
+        }
 }
